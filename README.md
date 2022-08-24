@@ -1,6 +1,11 @@
-<h3> Hi there 👋 </h3>
+```c++
+cout << "Hi There 🙋！" << endl;
+```
 
-#### About Me
-- Looking for full-time positions.
-- Passionate about using software to solve problems and connect people. 
-- He/Him/His.
+```python
+aboutMe = [
+  'Looking for full-time positions',
+  'Passionate about using software to solve problems and connect people', 
+  'He/Him/His'
+]
+```
